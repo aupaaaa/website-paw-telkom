@@ -1,2 +1,0 @@
-# website-paw-telkom
-web
